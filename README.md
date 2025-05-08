@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Thiago Brucezzi, 24 years old
+- 👋 Hi, I’m Thiago Brucezzi, 25 years old
 - 🎓 Studying 2 careers, Computer Engineering and Bachelor's degree in computer systems.
 - 👀 I’m interested in ... solve problems? Learn on a daily basis and try to learn from my mistakes.
 - 🌱 I’m currently learning Azure infastructure/terraform - Octopus Deploys (Tenants, Variables, Envs, Projects, Steps) - Builds in TeamCity/Pipelines
